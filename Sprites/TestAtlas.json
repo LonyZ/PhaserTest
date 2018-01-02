@@ -1,0 +1,57 @@
+{"frames":{
+"PlatformsSpriteSheet":
+{
+	"frame":{"x":0,"y":0,"w":590,"h":440},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":590,"h":440},
+	"sourceSize":{"w":590,"h":440}
+},
+"Pikachu":
+{
+	"frame":{"x":592,"y":258,"w":250,"h":250},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":250,"h":250},
+	"sourceSize":{"w":250,"h":250}
+},
+"TreeSpriteSheet":
+{
+	"frame":{"x":592,"y":0,"w":256,"h":256},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":256,"h":256},
+	"sourceSize":{"w":256,"h":256}
+},
+"DuckSpriteSheet":
+{
+	"frame":{"x":0,"y":622,"w":1008,"h":288},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":1008,"h":288},
+	"sourceSize":{"w":1008,"h":288}
+},
+"TrainerSpriteSheet":
+{
+	"frame":{"x":0,"y":442,"w":324,"h":178},
+	"rotated":false,"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":324,"h":178},
+	"sourceSize":{"w":324,"h":178}
+},
+"Sonic":
+{
+	"frame":{"x":0,"y":912,"w":894,"h":894},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":894,"h":894},
+	"sourceSize":{"w":894,"h":894}
+}},
+"meta":{
+	"app":"https://www.leshylabs.com/apps/sstool/",
+	"version":"Leshy SpriteSheet Tool v0.8.4",
+	"image":"TestAtlas.png",
+	"format": "RGBA8888",
+	"size":{"w":1008,"h":1806},
+	"scale":1
+}
+}
